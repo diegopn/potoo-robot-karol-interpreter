@@ -2,12 +2,11 @@
   <img src="https://diegopn.github.io/potoo-site/src/assets/images/language-interpreter-icon.svg?v=1c651ca7" alt="Potoo IDE language interpreter icon" width="120" />
 </p>
 
-<h1 align="center">Robot Karol Interpreter</h1>
+<h1 align="center">Robot Karol Interpreter Scaffold</h1>
 
 <p align="center">A minimal Rust scaffold concerning Robot Karol, a German educational programming environment.</p>
 
 <p align="center">
-  <a href="https://github.com/diegopn/potoo-robot-karol-interpreter/releases">Download</a> ·
   <a href="https://diegopn.github.io/potoo-site/manual/robot-karol/">Website</a> ·
   <a href="https://diegopn.github.io/potoo-site/manual/robot-karol/">User manual</a>
 </p>
@@ -23,7 +22,7 @@ Robot Karol is a German educational programming environment distinct from Karel 
 
 ## Status
 
-This candidate is under evaluation. The repository contains only a minimal Rust crate skeleton. It does not implement a language, notation, or environment, provide an interpreter or command-line program, or include language tests. No downloadable binaries are available yet.
+This candidate is under evaluation. The repository contains only a minimal Rust crate skeleton. It does not implement a language, notation, or environment, and provides no runnable CLI or language tests. No prebuilt release is available.
 
 ## Build the scaffold
 
